@@ -3,4 +3,7 @@
 .vscode/c_cpp_properties.json
 .vscode/launch.json
 .vscode/ipch
-include/secrets.h
+# include/secrets.hpp
+# src/secrets.cpp
+# Add any file with the name "secrets" in it to the .gitignore file
+*secrets*
